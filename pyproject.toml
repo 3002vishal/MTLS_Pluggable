@@ -20,4 +20,3 @@ dependencies = [
 
 [project.urls]
 Homepage = "https://github.com/3002vishal/MTLS_Pluggable"
-"Bug Tracker" = "https://github.com/yourusername/mtls_pluggable/issues"
